@@ -18,9 +18,8 @@ limitations under the License.
 
     <item
         android:id="@+id/menu_about"
-        android:icon="@drawable/btn_moreinfo"
         android:title="@string/about_preferences"
-        app:showAsAction="never" />
+        app:showAsAction="never"/>
 
     <item
         android:id="@+id/menu_general_preferences"
