@@ -22,6 +22,6 @@
         android:icon="@drawable/ic_search"
         android:title="@string/filter_the_list"
         app:actionViewClass="androidx.appcompat.widget.SearchView"
-        app:showAsAction="always|collapseActionView"/>
+        app:showAsAction="ifRoom|collapseActionView" />
 
 </menu>
